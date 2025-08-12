@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content = "IE=edge">
         <meta name = "viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="8">
-        <meta description="I am Omar Yasser Elattar from Egypt studies in Millenium language school " >
+        <meta description="I am Omar Yasser Elattar from Egypt studies in Pearls Modern school " >
         <style>
 
         </style>
@@ -29,7 +29,6 @@
            src = source
            alt = alternative    
             -->
-            <img src="./photo.jpg" width="150px" Height="150px"alt="photo 1">
             <!-- 
                 AUDIO & VIDEO
                 <audio src="./     .mp3" type=audio/mpeg controls> </audio>
@@ -42,7 +41,7 @@
                hr = horizontal line
            -->
            <p><u>Iam</u> <b> <span style="color:brown;"> Omar Yasser Elattar</span></b> <br>
-             <u>Studies</u> in <span style="color:red;"><b>M.L.S</b></span></b><br> 
+             <u>Studies</u> in  Pearls<span style="color:red;"><b><br>Founder of "Zertx" clothes brand</b></span></b><br> 
              <u>works</u> in <span style="color:orange;">video montage
             </span> and <span style="color:blue"><b>photoshop</b></span> <br> 
             <u>writes</u> <span style="color: chartreuse;">Podcasts</span>
