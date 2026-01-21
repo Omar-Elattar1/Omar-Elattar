@@ -65,14 +65,11 @@
                         <div id = name></div>
                         <input type = text placeholder = Name required>
                         <br><br>
-                        <div id = Email></div>
-                        <input type = text placeholder = Email required>
-                        <br><br>
                         <div id = password></div>
                         <input type = password placeholder = Password required>
                        <br><br>
                        <div id = message></div>
-                        <textarea name ="Message" Cols ="30" rows = "10" placeholder="Message" ></textarea>
+                        <textarea name ="Describe your problem" Cols ="30" rows = "10" placeholder="Message" ></textarea>
                         <br>  
                         <body>
                          <p>
@@ -129,9 +126,7 @@
                         <br>
                         <a href="https://www.tiktok.com/@o_el3attar?is_from_webapp=1&sender_device=pc">Tiktok</a>
                         <br>
-                        <a href="mailto:omarelattar308@gmail.com">Gmail</a>
                        </body>
-                       </div>
                     </section>
                     <hr>
                     <body>
@@ -145,7 +140,7 @@
                     <body>
                         <p>
                          <h4>
-                            My skills
+                            Skills
                          </h4>
                         </p>
                     </body>
